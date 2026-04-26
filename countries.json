@@ -195,6 +195,9 @@
     "capital": "Tirana",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "nato": true,
+    "bsec": true,
+    "cefta": true,
     "states": [
       {
         "code": "01",
@@ -867,6 +870,7 @@
     "capital": "Yerevan",
     "region": "Asia",
     "subregion": "Western Asia",
+    "bsec": true,
     "states": [
       {
         "code": "AG",
@@ -991,6 +995,9 @@
     "capital": "Vienna",
     "region": "Europe",
     "subregion": "Western Europe",
+    "eu": true,
+    "ewr": true,
+    "schengen": true,
     "states": [
       {
         "code": "B",
@@ -1046,6 +1053,7 @@
     "capital": "Baku",
     "region": "Asia",
     "subregion": "Western Asia",
+    "bsec": true,
     "states": [
       {
         "code": "NX",
@@ -1416,6 +1424,10 @@
     "capital": "Brussels",
     "region": "Europe",
     "subregion": "Western Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "BRU",
@@ -1734,6 +1746,7 @@
     "capital": "Sarajevo",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "cefta": true,
     "states": [
       {
         "code": "BRC",
@@ -2115,6 +2128,11 @@
     "capital": "Sofia",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
+    "bsec": true,
     "states": [
       {
         "code": "01",
@@ -2625,6 +2643,7 @@
     "capital": "Ottawa",
     "region": "Americas",
     "subregion": "Northern America",
+    "nato": true,
     "states": [
       {
         "code": "AB",
@@ -3631,6 +3650,10 @@
     "capital": "Zagreb",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "07",
@@ -3845,6 +3868,8 @@
     "capital": "Nicosia",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "eu": true,
+    "ewr": true,
     "states": [
       {
         "code": "04",
@@ -3885,6 +3910,10 @@
     "capital": "Prague",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "JM",
@@ -3965,6 +3994,10 @@
     "capital": "Copenhagen",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "84",
@@ -4585,6 +4618,10 @@
     "capital": "Tallinn",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "37",
@@ -4788,6 +4825,10 @@
     "capital": "Helsinki",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "01",
@@ -4893,6 +4934,10 @@
     "capital": "Paris",
     "region": "Europe",
     "subregion": "Western Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "A",
@@ -5135,6 +5180,7 @@
     "capital": "Tbilisi",
     "region": "Asia",
     "subregion": "Western Asia",
+    "bsec": true,
     "states": [
       {
         "code": "AB",
@@ -5205,6 +5251,10 @@
     "capital": "Berlin",
     "region": "Europe",
     "subregion": "Western Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "BW",
@@ -5364,6 +5414,11 @@
     "capital": "Athens",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
+    "bsec": true,
     "states": [
       {
         "code": "A",
@@ -5983,6 +6038,10 @@
     "capital": "Budapest",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "BA",
@@ -6208,6 +6267,10 @@
     "capital": "Reykjavík",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "efta": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "7",
@@ -6868,6 +6931,8 @@
     "capital": "Dublin",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "eu": true,
+    "ewr": true,
     "states": [
       {
         "code": "C",
@@ -6947,6 +7012,10 @@
     "capital": "Rome",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "65",
@@ -7816,6 +7885,10 @@
     "capital": "Riga",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "001",
@@ -8736,6 +8809,9 @@
     "capital": "Vaduz",
     "region": "Europe",
     "subregion": "Western Europe",
+    "efta": true,
+    "ewr": true,
+    "schengen": true,
     "states": [
       {
         "code": "01",
@@ -8801,6 +8877,10 @@
     "capital": "Vilnius",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "AL",
@@ -8861,6 +8941,10 @@
     "capital": "Luxembourg",
     "region": "Europe",
     "subregion": "Western Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "D",
@@ -8895,6 +8979,9 @@
     "capital": "Skopje",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "nato": true,
+    "bsec": true,
+    "cefta": true,
     "states": [
       {
         "code": "01",
@@ -9585,6 +9672,9 @@
     "capital": "Valletta",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "eu": true,
+    "ewr": true,
+    "schengen": true,
     "states": [
       {
         "code": "01",
@@ -10343,6 +10433,8 @@
     "capital": "Chișinău",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "bsec": true,
+    "cefta": true,
     "states": [
       {
         "code": "AN",
@@ -10753,6 +10845,8 @@
     "capital": "Podgorica",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "nato": true,
+    "cefta": true,
     "states": [
       {
         "code": "01",
@@ -11317,6 +11411,10 @@
     "capital": "Amsterdam",
     "region": "Europe",
     "subregion": "Western Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "DR",
@@ -12769,6 +12867,10 @@
     "capital": "Oslo",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "efta": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "02",
@@ -13698,6 +13800,10 @@
     "capital": "Warsaw",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "DS",
@@ -13788,6 +13894,10 @@
     "capital": "Lisbon",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "01",
@@ -13952,6 +14062,7 @@
     "capital": "Pristina",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "cefta": true,
     "states": []
   },
   {
@@ -13970,6 +14081,11 @@
     "capital": "Bucharest",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
+    "bsec": true,
     "states": [
       {
         "code": "AB",
@@ -14190,6 +14306,7 @@
     "capital": "Moscow",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "bsec": true,
     "states": [
       {
         "code": "AMU",
@@ -15122,6 +15239,8 @@
     "capital": "Belgrade",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "bsec": true,
+    "cefta": true,
     "states": [
       {
         "code": "KM",
@@ -15351,6 +15470,10 @@
     "capital": "Bratislava",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "BC",
@@ -15401,6 +15524,10 @@
     "capital": "Ljubljana",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "001",
@@ -16840,6 +16967,10 @@
     "capital": "Madrid",
     "region": "Europe",
     "subregion": "Southern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "C",
@@ -17444,6 +17575,10 @@
     "capital": "Stockholm",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "eu": true,
+    "ewr": true,
+    "nato": true,
+    "schengen": true,
     "states": [
       {
         "code": "K",
@@ -17559,6 +17694,8 @@
     "capital": "Bern",
     "region": "Europe",
     "subregion": "Western Europe",
+    "efta": true,
+    "schengen": true,
     "states": [
       {
         "code": "AG",
@@ -18848,6 +18985,8 @@
     "capital": "Ankara",
     "region": "Asia",
     "subregion": "Western Asia",
+    "nato": true,
+    "bsec": true,
     "states": [
       {
         "code": "01",
@@ -19392,6 +19531,7 @@
     "capital": "Kiev",
     "region": "Europe",
     "subregion": "Eastern Europe",
+    "bsec": true,
     "states": [
       {
         "code": "43",
@@ -19582,6 +19722,7 @@
     "capital": "London",
     "region": "Europe",
     "subregion": "Northern Europe",
+    "nato": true,
     "states": [
       {
         "code": "BDG",
@@ -20787,6 +20928,7 @@
     "capital": "Washington, D.C.",
     "region": "Americas",
     "subregion": "Northern America",
+    "nato": true,
     "states": [
       {
         "code": "DC",

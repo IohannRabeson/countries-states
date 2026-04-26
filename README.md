@@ -12,6 +12,9 @@ The format of the full list is like following:
 	    "capital": "Vienna",
 	    "region": "Europe",
 	    "subregion": "Western Europe",
+		"eu": true,
+		"ewr": true,
+		"schengen": true,
 	    "states": [
 		    {
 		        "code": "B",
@@ -19,6 +22,22 @@ The format of the full list is like following:
 		        ubdivisio
 		    },
 		    ...
+		]
+	},
+	{
+		"code2": "RO",
+		"code3": "ROU",
+		"name": "Romania",
+		"capital": "Bucharest",
+		"region": "Europe",
+		"subregion": "Eastern Europe",
+		"eu": true,
+		"ewr": true,
+		"nato": true,
+		"schengen": true,
+		"bsec": true,
+		"states": [
+			...
 		]
 	},
 	...
@@ -33,6 +52,13 @@ A country-element consists of:
 * capital - the name of the capital
 * region - the region/continent of the country, possible values: Asia, Europe, Africa, Oceania, Americas, Polar 
 * subregion - the subregion of the country inside the region, possible values: Southern Asia, Northern Europe, Southern Europe, Northern Africa, Polynesia, Middle Africa, Caribbean, South America, Western Asia, Australia and New Zealand, Western Europe, Eastern Europe, Central America, Western Africa, Northern America, Southern Africa, Eastern Africa, South-Eastern Asia, Eastern Asia, Melanesia, Micronesia, Central Asia, * states
+* eu - boolean if true
+* efta - boolean if true
+* ewr - boolean if true
+* nato - boolean if true
+* schengen - boolean if true
+* bsec - boolean if true
+* cefta - boolean if true
 
 * states
 
@@ -41,3 +67,13 @@ A state-element consists of:
 * code
 * name
 * subdivision (can be e.g. 'London borough', 'council area', 'country', ...)
+
+Sources for EU, EFTA, EWR, NATO, Schengen, BSEC, CEFTA:
+
+* [EU](https://de.wikipedia.org/wiki/Liste_der_Mitgliedstaaten_der_Europ%C3%A4ischen_Union)
+* [EFTA](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Freihandelsassoziation)
+* [EWR](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Wirtschaftsraum)
+* [NATO](https://de.wikipedia.org/wiki/NATO)
+* [Schengen](https://de.wikipedia.org/wiki/Schengen-Raum)
+* [BSEC](https://de.wikipedia.org/wiki/Schwarzmeer-Wirtschaftskooperation)
+* [CEFTA](https://de.wikipedia.org/wiki/Mitteleurop%C3%A4isches_Freihandelsabkommen)
