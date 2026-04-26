@@ -57,9 +57,13 @@ A country-element consists of:
 * code2 - Country code out of 2 letters
 * code3 - Country code out of 2 letters
 * name - the name of the country
+* name_de - the german name of the country
 * capital - the name of the capital
+* capital_de - the german name of the capital
 * region - the region/continent of the country, possible values: Asia, Europe, Africa, Oceania, Americas, Polar 
+* region_de - the german region/continent of the country
 * subregion - the subregion of the country inside the region, possible values: Southern Asia, Northern Europe, Southern Europe, Northern Africa, Polynesia, Middle Africa, Caribbean, South America, Western Asia, Australia and New Zealand, Western Europe, Eastern Europe, Central America, Western Africa, Northern America, Southern Africa, Eastern Africa, South-Eastern Asia, Eastern Asia, Melanesia, Micronesia, Central Asia, * states
+* subregion_de - the german subregion of the country inside the region
 * eu - boolean if true
 * efta - boolean if true
 * ewr - boolean if true
