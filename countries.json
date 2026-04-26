@@ -9479,82 +9479,82 @@
     "subregion": "South-Eastern Asia",
     "states": [
       {
-        "code": "14",
+        "code": "MY-14",
         "name": "Wilayah Persekutuan Kuala Lumpur",
         "subdivision": "federal territory"
       },
       {
-        "code": "15",
+        "code": "MY-15",
         "name": "Wilayah Persekutuan Labuan",
         "subdivision": "federal territory"
       },
       {
-        "code": "16",
+        "code": "MY-16",
         "name": "Wilayah Persekutuan Putrajaya",
         "subdivision": "federal territory"
       },
       {
-        "code": "01",
+        "code": "MY-01",
         "name": "Johor",
         "subdivision": "state"
       },
       {
-        "code": "02",
+        "code": "MY-02",
         "name": "Kedah",
         "subdivision": "state"
       },
       {
-        "code": "03",
+        "code": "MY-03",
         "name": "Kelantan",
         "subdivision": "state"
       },
       {
-        "code": "04",
+        "code": "MY-04",
         "name": "Melaka",
         "subdivision": "state"
       },
       {
-        "code": "05",
+        "code": "MY-05",
         "name": "Negeri Sembilan",
         "subdivision": "state"
       },
       {
-        "code": "06",
+        "code": "MY-06",
         "name": "Pahang",
         "subdivision": "state"
       },
       {
-        "code": "08",
+        "code": "MY-08",
         "name": "Perak",
         "subdivision": "state"
       },
       {
-        "code": "09",
+        "code": "MY-09",
         "name": "Perlis",
         "subdivision": "state"
       },
       {
-        "code": "07",
+        "code": "MY-07",
         "name": "Pulau Pinang",
         "subdivision": "state"
       },
       {
-        "code": "12",
+        "code": "MY-12",
         "name": "Sabah",
         "subdivision": "state"
       },
       {
-        "code": "13",
+        "code": "MY-13",
         "name": "Sarawak",
         "subdivision": "state"
       },
       {
-        "code": "10",
+        "code": "MY-10",
         "name": "Selangor",
         "subdivision": "state"
       },
       {
-        "code": "11",
+        "code": "MY-11",
         "name": "Terengganu",
         "subdivision": "state"
       }
