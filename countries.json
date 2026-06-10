@@ -3272,7 +3272,7 @@
   {
     "code2": "CV",
     "code3": "CPV",
-    "name": "Cape Verde",
+    "name": "Cabo Verde",
     "name_de": "Cabo Verde",
     "capital": "Praia",
     "capital_de": "Praia",
@@ -4535,7 +4535,7 @@
   {
     "code2": "CZ",
     "code3": "CZE",
-    "name": "Czech Republic",
+    "name": "Czechia",
     "name_de": "Tschechien",
     "capital": "Prague",
     "capital_de": "Prag",
@@ -9843,7 +9843,7 @@
   {
     "code2": "MK",
     "code3": "MKD",
-    "name": "Republic of Macedonia",
+    "name": "North Macedonia",
     "name_de": "Nordmazedonien",
     "capital": "Skopje",
     "capital_de": "Skopje",
@@ -18749,7 +18749,7 @@
   {
     "code2": "SZ",
     "code3": "SWZ",
-    "name": "Swaziland",
+    "name": "Eswatini",
     "name_de": "Eswatini",
     "capital": "Lobamba",
     "capital_de": "Lobamba",
@@ -19847,7 +19847,7 @@
   {
     "code2": "TL",
     "code3": "TLS",
-    "name": "East Timor",
+    "name": "Timor-Leste",
     "name_de": "Timor-Leste",
     "capital": "Dili",
     "capital_de": "Dili",
@@ -20245,7 +20245,7 @@
   {
     "code2": "TR",
     "code3": "TUR",
-    "name": "Turkey",
+    "name": "Türkiye",
     "name_de": "Türkei",
     "capital": "Ankara",
     "capital_de": "Ankara",
