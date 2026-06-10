@@ -16024,13 +16024,163 @@
     "states": [
       {
         "code": "KM",
-        "name": "Kosovo-Metohija",
-        "subdivision": null
+        "name": "Kosovo and Metohija",
+        "subdivision": "Autonomous province"
       },
       {
         "code": "VO",
         "name": "Vojvodina",
-        "subdivision": null
+        "subdivision": "Autonomous province"
+      },
+      {
+        "code": "00",
+        "name": "Belgrade",
+        "subdivision": "City"
+      },
+      {
+        "code": "01",
+        "name": "North Bačka",
+        "subdivision": "District"
+      },
+      {
+        "code": "02",
+        "name": "Central Banat",
+        "subdivision": "District"
+      },
+      {
+        "code": "03",
+        "name": "North Banat",
+        "subdivision": "District"
+      },
+      {
+        "code": "04",
+        "name": "South Banat",
+        "subdivision": "District"
+      },
+      {
+        "code": "05",
+        "name": "West Bačka",
+        "subdivision": "District"
+      },
+      {
+        "code": "06",
+        "name": "South Bačka",
+        "subdivision": "District"
+      },
+      {
+        "code": "07",
+        "name": "Srem",
+        "subdivision": "District"
+      },
+      {
+        "code": "08",
+        "name": "Mačva",
+        "subdivision": "District"
+      },
+      {
+        "code": "09",
+        "name": "Kolubara",
+        "subdivision": "District"
+      },
+      {
+        "code": "10",
+        "name": "Podunavlje",
+        "subdivision": "District"
+      },
+      {
+        "code": "11",
+        "name": "Braničevo",
+        "subdivision": "District"
+      },
+      {
+        "code": "12",
+        "name": "Šumadija",
+        "subdivision": "District"
+      },
+      {
+        "code": "13",
+        "name": "Pomoravlje",
+        "subdivision": "District"
+      },
+      {
+        "code": "14",
+        "name": "Bor",
+        "subdivision": "District"
+      },
+      {
+        "code": "15",
+        "name": "Zaječar",
+        "subdivision": "District"
+      },
+      {
+        "code": "16",
+        "name": "Zlatibor",
+        "subdivision": "District"
+      },
+      {
+        "code": "17",
+        "name": "Moravica",
+        "subdivision": "District"
+      },
+      {
+        "code": "18",
+        "name": "Raška",
+        "subdivision": "District"
+      },
+      {
+        "code": "19",
+        "name": "Rasina",
+        "subdivision": "District"
+      },
+      {
+        "code": "20",
+        "name": "Nišava",
+        "subdivision": "District"
+      },
+      {
+        "code": "21",
+        "name": "Toplica",
+        "subdivision": "District"
+      },
+      {
+        "code": "22",
+        "name": "Pirot",
+        "subdivision": "District"
+      },
+      {
+        "code": "23",
+        "name": "Jablanica",
+        "subdivision": "District"
+      },
+      {
+        "code": "24",
+        "name": "Pčinja",
+        "subdivision": "District"
+      },
+      {
+        "code": "25",
+        "name": "Kosovo",
+        "subdivision": "District"
+      },
+      {
+        "code": "26",
+        "name": "Peć",
+        "subdivision": "District"
+      },
+      {
+        "code": "27",
+        "name": "Prizren",
+        "subdivision": "District"
+      },
+      {
+        "code": "28",
+        "name": "Kosovska Mitrovica",
+        "subdivision": "District"
+      },
+      {
+        "code": "29",
+        "name": "Kosovo-Pomoravlje",
+        "subdivision": "District"
       }
     ]
   },
