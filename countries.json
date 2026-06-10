@@ -6971,99 +6971,74 @@
     "subregion_de": "Westafrika",
     "states": [
       {
-        "code": "06",
-        "name": "18 Montagnes",
-        "subdivision": null
+        "code": "AB",
+        "name": "Abidjan",
+        "subdivision": "Autonomous district"
       },
       {
-        "code": "16",
-        "name": "Agnébi",
-        "subdivision": null
-      },
-      {
-        "code": "17",
-        "name": "Bafing",
-        "subdivision": null
-      },
-      {
-        "code": "09",
+        "code": "BS",
         "name": "Bas-Sassandra",
-        "subdivision": null
+        "subdivision": "District"
       },
       {
-        "code": "10",
+        "code": "CM",
+        "name": "Comoé",
+        "subdivision": "District"
+      },
+      {
+        "code": "DN",
         "name": "Denguélé",
-        "subdivision": null
+        "subdivision": "District"
       },
       {
-        "code": "18",
-        "name": "Fromager",
-        "subdivision": null
+        "code": "GD",
+        "name": "Gôh-Djiboua",
+        "subdivision": "District"
       },
       {
-        "code": "02",
-        "name": "Haut-Sassandra",
-        "subdivision": null
-      },
-      {
-        "code": "07",
+        "code": "LC",
         "name": "Lacs",
-        "subdivision": null
+        "subdivision": "District"
       },
       {
-        "code": "01",
+        "code": "LG",
         "name": "Lagunes",
-        "subdivision": null
+        "subdivision": "District"
       },
       {
-        "code": "12",
-        "name": "Marahoué",
-        "subdivision": null
+        "code": "MG",
+        "name": "Montagnes",
+        "subdivision": "District"
       },
       {
-        "code": "19",
-        "name": "Moyen-Cavally",
-        "subdivision": null
+        "code": "SM",
+        "name": "Sassandra-Marahoué",
+        "subdivision": "District"
       },
       {
-        "code": "05",
-        "name": "Moyen-Comoé",
-        "subdivision": null
-      },
-      {
-        "code": "11",
-        "name": "Nzi-Comoé",
-        "subdivision": null
-      },
-      {
-        "code": "03",
+        "code": "SV",
         "name": "Savanes",
-        "subdivision": null
+        "subdivision": "District"
       },
       {
-        "code": "15",
-        "name": "Sud-Bandama",
-        "subdivision": null
-      },
-      {
-        "code": "13",
-        "name": "Sud-Comoé",
-        "subdivision": null
-      },
-      {
-        "code": "04",
+        "code": "VB",
         "name": "Vallée du Bandama",
-        "subdivision": null
+        "subdivision": "District"
       },
       {
-        "code": "14",
-        "name": "Worodougou",
-        "subdivision": null
+        "code": "WR",
+        "name": "Woroba",
+        "subdivision": "District"
       },
       {
-        "code": "08",
+        "code": "YM",
+        "name": "Yamoussoukro",
+        "subdivision": "Autonomous district"
+      },
+      {
+        "code": "ZZ",
         "name": "Zanzan",
-        "subdivision": null
+        "subdivision": "District"
       }
     ]
   },
