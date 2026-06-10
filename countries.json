@@ -1121,8 +1121,393 @@
     "states": [
       {
         "code": "NX",
-        "name": "Naxçıvan",
-        "subdivision": null
+        "name": "Nakhchivan",
+        "subdivision": "Autonomous republic"
+      },
+      {
+        "code": "BA",
+        "name": "Baku",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "GA",
+        "name": "Ganja",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "LA",
+        "name": "Lankaran City",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "MI",
+        "name": "Mingachevir",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "NA",
+        "name": "Naftalan",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "NV",
+        "name": "Nakhchivan City",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "SA",
+        "name": "Shaki City",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "SR",
+        "name": "Shirvan",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "SM",
+        "name": "Sumgayit",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "XA",
+        "name": "Khankendi",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "YE",
+        "name": "Yevlakh City",
+        "subdivision": "Municipality"
+      },
+      {
+        "code": "ABS",
+        "name": "Absheron",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "AGC",
+        "name": "Aghjabadi",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "AGM",
+        "name": "Aghdam",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "AGS",
+        "name": "Agdash",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "AGA",
+        "name": "Aghstafa",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "AGU",
+        "name": "Aghsu",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "AST",
+        "name": "Astara",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "BAB",
+        "name": "Babek",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "BAL",
+        "name": "Balakan",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "BAR",
+        "name": "Barda",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "BEY",
+        "name": "Beylagan",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "BIL",
+        "name": "Bilasuvar",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "CAB",
+        "name": "Jabrayil",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "CAL",
+        "name": "Jalilabad",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "CUL",
+        "name": "Julfa",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "DAS",
+        "name": "Dashkasan",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "FUZ",
+        "name": "Fuzuli",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "GAD",
+        "name": "Gadabay",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "GOR",
+        "name": "Goranboy",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "GOY",
+        "name": "Goychay",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "GYG",
+        "name": "Goygol",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "HAC",
+        "name": "Hajigabul",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "IMI",
+        "name": "Imishli",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "ISM",
+        "name": "Ismayilli",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "KAL",
+        "name": "Kalbajar",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "KAN",
+        "name": "Kangarli",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "KUR",
+        "name": "Kurdamir",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "LAC",
+        "name": "Lachin",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "LAN",
+        "name": "Lankaran",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "LER",
+        "name": "Lerik",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "MAS",
+        "name": "Masally",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "NEF",
+        "name": "Neftchala",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "OGU",
+        "name": "Oghuz",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "ORD",
+        "name": "Ordubad",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "QAX",
+        "name": "Gakh",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "QAZ",
+        "name": "Gazakh",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "QAB",
+        "name": "Gabala",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "QOB",
+        "name": "Gobustan",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "QBA",
+        "name": "Guba",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "QBI",
+        "name": "Gubadli",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "QUS",
+        "name": "Gusar",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SAT",
+        "name": "Saatly",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SAB",
+        "name": "Sabirabad",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SBN",
+        "name": "Shabran",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SAH",
+        "name": "Shahbuz",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SAL",
+        "name": "Salyan",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SMI",
+        "name": "Shamakhi",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SMX",
+        "name": "Samukh",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SAD",
+        "name": "Sadarak",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SAK",
+        "name": "Shaki",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SKR",
+        "name": "Shamkir",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SAR",
+        "name": "Sharur",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SIY",
+        "name": "Siyazan",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "SUS",
+        "name": "Shusha",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "TAR",
+        "name": "Tartar",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "TOV",
+        "name": "Tovuz",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "UCA",
+        "name": "Ujar",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "XAC",
+        "name": "Khachmaz",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "XIZ",
+        "name": "Khizi",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "XCI",
+        "name": "Khojaly",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "XVD",
+        "name": "Khojavend",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "YAR",
+        "name": "Yardimli",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "YEV",
+        "name": "Yevlakh",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "ZAQ",
+        "name": "Zagatala",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "ZAN",
+        "name": "Zangilan",
+        "subdivision": "Rayon"
+      },
+      {
+        "code": "ZAR",
+        "name": "Zardab",
+        "subdivision": "Rayon"
       }
     ]
   },
